@@ -131,3 +131,47 @@ int main()
 
 	return 0;
 }
+/*
+gescoe@gescoe:~$ g++ -o gfg -fopenmp HPC1A.cpp 
+
+gescoe@gescoe:~$ ./gfg
+
+
+
+ enter data=>5
+
+do you want insert one more node?y
+
+
+
+ enter data=>3
+
+do you want insert one more node?y
+
+
+
+ enter data=>2
+
+do you want insert one more node?y
+
+
+
+ enter data=>1
+
+do you want insert one more node?y
+
+
+
+ enter data=>7
+
+do you want insert one more node?y
+
+
+
+ enter data=>8
+
+do you want insert one more node?n
+
+	5	3	2	1	7	8
+
+*/
